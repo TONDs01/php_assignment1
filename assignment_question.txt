@@ -1,0 +1,10 @@
+1) sum of digits?
+2) even or odd number?
+3) prime number?
+4) table of number?
+5) factorial?
+6) armstrong number?
+7) palindrome number?
+8) fibonacci series?
+9) area of rectangle?
+10) leap year?
